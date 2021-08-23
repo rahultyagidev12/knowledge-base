@@ -1,2 +1,1 @@
-# To setup a local cluster for kubernetes it's recommended to use (https://kind.sigs.k8s.io/)[kind]
-
+# To setup a local cluster for kubernetes it's recommended to use [kind](https://kind.sigs.k8s.io/)
