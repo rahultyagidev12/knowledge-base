@@ -1,0 +1,14 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: go-workspace
+spec:
+  template:
+    # This is the pod template
+    spec:
+      containers:
+      - name: go-workspace
+        image: golang:1.17.0-buster
+        command: ['tail', '-f', '/dev/null']
+      restartPolicy: OnFailure
+
