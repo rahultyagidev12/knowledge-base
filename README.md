@@ -5,7 +5,7 @@ A collection of technical writings and essays to demonstrate a variety of concep
 
 ### Popular Tech companies blogs
 
-[Twitter blog](https://blog.twitter.com/)
+[Twitter blog](https://blog.twitter.com/engineering/en_us)
 
 [Uber Engineering Blog](https://www.uber.com/en-IN/blog/bangalore/engineering/)
 
