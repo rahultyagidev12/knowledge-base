@@ -1,9 +1,7 @@
 ### Working with private modules
 
 In order to use private modules for which Go should not use GOPROXY and GOSUMDB, 
-
 should be able to download access packages hosted on private repos or repos,
-
 other than github we can set the GOPRIVATE env variable
 
 `
