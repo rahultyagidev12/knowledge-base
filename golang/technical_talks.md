@@ -8,3 +8,5 @@ Contains links to various useful golang talks on youtube
 
 [Golang Testing](https://youtu.be/8hQG7QlcLBk)
 
+[Golang Fuzz testing >= 1.18](https://www.youtube.com/watch?v=7KWPiRq3ZYI)
+
