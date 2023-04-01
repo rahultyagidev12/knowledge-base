@@ -12,3 +12,5 @@ Contains links to various useful golang talks on youtube
 
 [Cgo nice example](https://www.youtube.com/watch?v=yuW6BwOS8Eg&ab_channel=justforfunc%3AProgramminginGo)
 
+[Go context for timeouts](https://www.youtube.com/watch?v=kaZOXRqFPCw&ab_channel=AnthonyGG)
+
