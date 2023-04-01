@@ -1,0 +1,1 @@
+- [debugging docker](https://youtu.be/AdMqCUhvRz8)
