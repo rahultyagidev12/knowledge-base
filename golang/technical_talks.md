@@ -10,3 +10,5 @@ Contains links to various useful golang talks on youtube
 
 [Golang Fuzz testing >= 1.18](https://www.youtube.com/watch?v=7KWPiRq3ZYI)
 
+[Cgo nice example](https://www.youtube.com/watch?v=yuW6BwOS8Eg&ab_channel=justforfunc%3AProgramminginGo)
+
