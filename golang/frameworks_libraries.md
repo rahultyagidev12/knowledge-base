@@ -1,6 +1,16 @@
-### Connecting to DB:
+### Database:
 - [sqlx](https://github.com/jmoiron/sqlx) with [pq](pqhttps://github.com/lib/pq) library
 - [gorm ORM](https://github.com/go-gorm/gorm): Orm however orm's are not preferred in golang community
+- [go-jet](https://github.com/go-jet/jet): Sql code generation from schema
+
+
+### SQL migration
+- [goose](https://github.com/pressly/goose): A fork of goose that is actually maintained.
+- Gorm can be also be used for database migration as well.
+
+### Routers:
+- [chi](https://github.com/go-chi/chi) simple router 100% compatible with native http handlers
+- [mux](https://github.com/gorilla/mux) unmaintained
 
 ### Testing
 - [testify](https://github.com/stretchr/testify)
