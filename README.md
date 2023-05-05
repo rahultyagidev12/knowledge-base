@@ -10,3 +10,7 @@ A collection of technical writings and essays to demonstrate a variety of concep
 [Uber Engineering Blog](https://www.uber.com/en-IN/blog/bangalore/engineering/)
 
 [Meta](https://engineering.fb.com/)
+
+
+### Popular coding standards 
+[Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
