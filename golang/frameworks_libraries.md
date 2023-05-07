@@ -3,6 +3,11 @@
 - [gorm ORM](https://github.com/go-gorm/gorm): Orm however orm's are not preferred in golang community
 - [go-jet](https://github.com/go-jet/jet): Sql code generation from schema
 
+### Release
+- [go-releaser](https://github.com/goreleaser/goreleaser)
+
+### Feature Flags:
+- [flipt](https://github.com/flipt-io/flipt)
 
 ### SQL migration
 - [goose](https://github.com/pressly/goose): A fork of goose that is actually maintained.
