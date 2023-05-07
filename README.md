@@ -17,4 +17,4 @@ A collection of technical writings and essays to demonstrate a variety of concep
 
 - Generating changelog from commits [git-chglog](https://github.com/git-chglog/git-chglog)
 
-- (Semanting versioning)(https://semver.org/)
+- [Semanting versioning](https://semver.org/)
