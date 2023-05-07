@@ -3,7 +3,13 @@
 - [gorm ORM](https://github.com/go-gorm/gorm): Orm however orm's are not preferred in golang community
 - [go-jet](https://github.com/go-jet/jet): Sql code generation from schema
 
-### Release
+### Linters
+- [golangci-lint](https://github.com/golangci/golangci-lint)
+
+### Debuggers
+- [delve](https://github.com/go-delve/delve)
+
+### Release go packages
 - [go-releaser](https://github.com/goreleaser/goreleaser)
 
 ### Feature Flags:
