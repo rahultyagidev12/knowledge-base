@@ -29,6 +29,9 @@
 ### Generate mocks for testing
 - [mockery](https://github.com/vektra/mockery)
 
+### Hacktober fest open source projects
+- [hacktoberfest](https://github.com/topics/hacktoberfest?l=go&o=desc&s=updated)
+
 ### API Gateways
 - [lura](https://github.com/luraproject/lura)
 
